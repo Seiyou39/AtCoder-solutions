@@ -3,7 +3,7 @@
 //Fist I thought it is a [D] window like [day1, day2, day3, ... , dayD]
 //but it is too noisy to shift
 //so it is easier to use a queue.
-//
+
 #include<bits/stdc++.h>
 using namespace std;
 

@@ -53,12 +53,6 @@ int main() {
 }
 
 
-
-
-
-
-
-
 /*improve solution 1, do not need to reset positionS everytime, it is too slow.
 #include <bits/stdc++.h>
 using namespace std;
